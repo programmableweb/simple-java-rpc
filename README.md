@@ -62,7 +62,7 @@ You will get output at the command line as follows:
 
 **Step 8:** Review the output from the terminal window where ther server is running
 
-Go over the terminal window the the RMI Server is running. You will see output similar to the following:
+Go over the terminal window where the RMI Server is running. You will see output similar to the following:
 
 `Echoing [This is a simple message for RMI] at: Wed Mar 18 19:46:35 UTC 2020`
 
