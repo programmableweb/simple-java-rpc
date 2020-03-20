@@ -29,7 +29,11 @@ This example is intended to run both the RMI server and client on the same machi
 
 `javac RMIInterface.java`
 
-**Step 4:** In a separate terminal window start the RMI server
+**Step 4:** Start the RMI Registry
+
+`rmiregistry 5000`
+
+**Step 5:** In a separate terminal window start the RMI server
 
 `java MyServer`
 
@@ -38,11 +42,7 @@ You will get response at the command line as follows:
 `Server is up and running!`
 
 
-**Step 5:** Start the RMI Registry
-
-`rmiregistry 5000`
-
-**Step 6:** In a separate terminal window invoke the RMI client
+**Step 6:** In yet another separate terminal window invoke the RMI client
 
 `java MyClient`
 
