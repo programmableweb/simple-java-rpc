@@ -52,7 +52,7 @@ You will get a prompt at follows:
 
 **Step 7:** Copy this message into the command prompt to enter a message.
 
-`This is a simple message for RMI`{{copy}}
+`This is a simple message for RMI`
 
 and then strikethe `ENTER` key
 
